@@ -14,8 +14,8 @@ I built this responsive portal to gather my developer profiles, social channels,
 
 ## 🎓 Education
 
-* **IIT Madras** — Bachelor of Science (BS) in Data Applications
-* **Central University of Tamil Nadu (CUTN)**
+* **IIT Madras** — Bachelor of Science (BS) in Data Science and Applications
+* **Central University of Tamil Nadu (CUTN)** — BSc (Hons) Statistics
 
 ---
 
