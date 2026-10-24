@@ -36,7 +36,8 @@ No login, no backend.
 
 - Five outbound links: GitHub, LinkedIn, Instagram, Twitter/X, email.
 - Education block: IIT Madras first, then CUTN.
-- Static page; no JavaScript, no analytics, no external fonts or requests.
+- Static page; no JavaScript, no analytics, no third-party runtime requests.
+  Gloock and Manrope are self-hosted.
 - Monogram placeholder until a headshot is supplied.
 - AmbitionBox omitted because the profile is private; the second email omitted.
 - Degree/program and years were not supplied.

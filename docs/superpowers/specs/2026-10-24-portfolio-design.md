@@ -1,7 +1,7 @@
 # AR Saadhana — portfolio link hub
 
 Date: 2026-10-24
-Status: approved; education order added at the user's request
+Status: approved; education order added, dark emerald visual refresh shipped
 
 ## Intent
 
@@ -25,8 +25,8 @@ professional even before a headshot exists.
 
 ## Constraints
 
-- Static HTML and CSS only; inline SVG icons; no JavaScript; no external fonts
-  or requests.
+- Static HTML and CSS only; inline SVG icons; no JavaScript; self-hosted
+  Gloock and Manrope fonts; no third-party runtime requests.
 - Deployable to GitHub Pages as-is.
 - Photo: initials monogram until a headshot is supplied.
 
@@ -41,20 +41,26 @@ professional even before a headshot exists.
 
 ## The page (my calls)
 
-- Single centered column, max width ~26rem, on a warm off-white background.
-- Ink-colored text; one emerald accent. Name set in a serif, links in the
-  system sans stack.
-- Monogram "AS" in a thin emerald ring where a headshot would go.
+- Single centered glass card, max width ~28rem, on a deep warm charcoal
+  background with emerald and bronze radial glows and a fine grain overlay.
+- Warm ivory text; emerald carries action, focus, and atmosphere. The name is
+  set in self-hosted Gloock, the UI in self-hosted Manrope.
+- Monogram "AS" in a glowing emerald ring with a hover lift, where a headshot
+  would go.
 - Education block between the name and the links: "IIT Madras" then "CUTN",
   each with its full institution name beneath.
-- Five full-width link rows in the order the user listed: GitHub, LinkedIn,
-  Instagram, Twitter/X, email. Each row has an inline SVG icon, label, 1px
-  border, hover lift, and a visible keyboard focus ring.
+- Five full-width glass link rows in the order the user listed: GitHub,
+  LinkedIn, Instagram, Twitter/X, email. Each row has an inline SVG icon,
+  label and handle, a 1px border, hover elevation with an emerald tint, and a
+  visible keyboard focus ring.
 - Email row uses `mailto:`; other rows open in a new tab with `rel="noopener"`.
 - Small muted footer: "© AR Saadhana".
 - Mobile-first, tap targets at least 44px, contrast at or above WCAG AA,
   `prefers-reduced-motion` respected.
 - Basic `<title>`, meta description, and an SVG favicon of the monogram.
+
+The dark theme replaced the original warm-paper palette at the user's request
+(bolder, glass, emerald glow, richer typography).
 
 ## Content
 
@@ -75,10 +81,13 @@ Name displayed: AR Saadhana. No tagline in v1.
 
 ## Verification
 
-- Open locally at 360px and 1440px widths; check layout and tap targets.
+- Open locally at 360px, 390px, 1440x900, and 1440x1200; check layout, tap
+  targets, and that the card fits without clipping.
 - Confirm every link target and the `mailto:` address.
-- Tab through the page; confirm focus is always visible.
-- Check text contrast with a contrast checker.
+- Tab through the page; confirm the focus ring is visible and never clipped.
+- Hover the monogram and each link; confirm the lift, tint, and arrow motion.
+- Check text and icon contrast against the dark surfaces.
+- Verify the deployed page at https://gojo1709satoru.github.io/.
 
 ## Left to the builder
 
