@@ -45,7 +45,7 @@ professional even before a headshot exists.
   background with emerald and bronze radial glows and a fine grain overlay.
 - Warm ivory text; emerald carries action, focus, and atmosphere. The name is
   set in self-hosted Gloock, the UI in self-hosted Manrope.
-- Monogram "AS" in a glowing emerald ring with a hover lift, where a headshot
+- Monogram "ARS" in a glowing emerald ring with a hover lift, where a headshot
   would go.
 - Education block between the name and the links: "IIT Madras" then "CUTN",
   each with its full institution name beneath.
